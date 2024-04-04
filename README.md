@@ -6,3 +6,5 @@
 
 <a href="https://marcusleet2.github.io/Cubism_painting_animation" target="_black">https://marcusleet2.github.io/Cubism_painting_animation<a>
 
+<a href="https://erinlxw.github.io/Cubism" target="_black">https://erinlxw.github.io/Cubism<a>
+
