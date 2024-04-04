@@ -8,3 +8,5 @@
 
 <a href="https://erinlxw.github.io/Cubism" target="_black">https://erinlxw.github.io/Cubism<a>
 
+<a href="https://fnx-sk8.github.io/cubistOcto/" target="_black">https://fnx-sk8.github.io/cubistOcto/<a>
+
