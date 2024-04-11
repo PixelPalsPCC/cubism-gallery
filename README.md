@@ -17,3 +17,5 @@
 <a href="https://madleyva.github.io/CubismML/" target="_blank">https://madleyva.github.io/CubismML/<a>
 
 <a href="https://jingchunyang.github.io/cubism/" target="_blank">[https://madleyva.github.io/CubismML](https://jingchunyang.github.io/cubism/)/<a>
+
+<a href="https://ariellang.github.io/cubism-project/" target="_blank">ariellang.github.io/cubism-project/<a>
